@@ -1,0 +1,16 @@
+PODS:
+  - lszTest001 (0.1.0)
+
+DEPENDENCIES:
+  - lszTest001 (from `../`)
+
+EXTERNAL SOURCES:
+  lszTest001:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lszTest001: ac24c75b8365b4b61676cfbb8c95fb7746faa84d
+
+PODFILE CHECKSUM: 0fb75e1291f476f9a216903cd23801f8758cec29
+
+COCOAPODS: 1.10.1
