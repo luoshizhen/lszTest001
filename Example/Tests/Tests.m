@@ -18,6 +18,10 @@
 {
     [super setUp];
     NSLog(@"ddd");
+    NSLog(@"0622");
+    NSLog(@"0222");
+    NSLog(@"02221");
+    NSLog(@"02223");
     // Put setup code here. This method is called before the invocation of each test method in the class.
 }
 
