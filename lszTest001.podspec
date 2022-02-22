@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'lszTest00108013'
+  s.name             = 'lszTest00108013iii'
   s.version          = '0.1.0'
   s.summary          = 'A short description of lszTest001.'
 
